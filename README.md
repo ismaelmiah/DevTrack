@@ -1,7 +1,9 @@
-# DevTrack - (Batch4-Team2)
+# DevTrack (DevSkill Training Team Project)
 
 
-# Dashboard ([Click Here](https://docs.google.com/spreadsheets/d/1xR6lKH0TGh9GXPU_OSNLcdOhsllZe78vo3er4UQCNBg/edit?ts=60051279#gid=1041983261))
+# Team Members
+![Screenshot 2023-07-31 223815](https://github.com/prose/prose/assets/29182508/cd2c6b47-2a71-4d96-b9b7-52d0cbc4b484)
+
 
 ## SQLite Update Database Command
 - `dotnet ef database update --project DevTrack.TrackerWorkerService --context DevTrackContext`
